@@ -1,0 +1,6 @@
+---
+use-command: "/capslimit <sınır değer>"
+max-caps: "Oyuncu tarafından kullanılabilecek maksimum sınır değeri olarak ayarlandı "
+must-number: "Değer, pozitif sayısal biçimde olmalıdır"
+chat-message: "Çok fazla büyük harf kullandın !"
+...
