@@ -127,4 +127,3 @@ class CapsLimit extends PluginBase implements Listener{
         }
     }
 }
-?>
