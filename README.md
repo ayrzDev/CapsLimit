@@ -1,5 +1,4 @@
 [![](https://poggit.pmmp.io/shield.state/CapsLimits)](https://poggit.pmmp.io/p/CapsLimits)
-<a href="https://poggit.pmmp.io/p/CapsLimits"><img src="https://poggit.pmmp.io/shield.state/CapsLimits"></a>
 # CapsLimit
 
 Core for a respectful conversation
