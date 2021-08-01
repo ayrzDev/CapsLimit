@@ -1,5 +1,6 @@
 ---
 max-caps: 3
 prefix: "§a[Caps§2Limit] "
+# langs "tr_TR","en_US"
 lang: "tr_TR"
 ...
