@@ -1,0 +1,15 @@
+name: CapsLimit
+main: CapsLimit\CapsLimit
+api: 3.20.1
+version: 1.0.0
+author: Ayrz
+
+commands:
+  capslimit:
+    description: Sets maximum caps can be used by player
+    permission: capslimit
+
+permissions:
+  capslimit:
+    description: Allow to use set default usage of maximum caps!
+    default: true
