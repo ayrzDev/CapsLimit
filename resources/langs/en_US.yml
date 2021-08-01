@@ -1,0 +1,6 @@
+---
+use-command: "/capslimit <limit value>"
+max-caps: "Maximum caps can be used by player has been set to "
+must-number: "Value must be in positive numeric form"
+chat-message: "You used too much caps!"
+...
