@@ -86,8 +86,6 @@ class CapsLimit extends PluginBase implements Listener{
     }
 
     public function onCommand(CommandSender $sender, Command $command, $commandAlias, array $args): bool{
-        switch($command->getName()){
-          case "capslimit":
             if(!$sender->hasPermission("capslimit.set")){
             return false;
           }
@@ -103,8 +101,6 @@ class CapsLimit extends PluginBase implements Listener{
           }
             $sender->sendMessage($this->prefix.self::Text("must-number"));
             return false;
-            break;   
-        }
     }
     
     public function onChat(PlayerChatEvent $event){
